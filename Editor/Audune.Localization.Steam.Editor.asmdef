@@ -1,0 +1,22 @@
+{
+    "name": "Audune.Localization.Steam.Editor",
+    "rootNamespace": "Audune.Localization.Steam.Editor",
+    "references": [
+        "GUID:115f4a96656855c4db625ad53bd8ac16",
+        "GUID:5bf27bd8feae55648bfc632dd99aaa4d",
+        "GUID:80756431af2a5264389ee6a2379ca491",
+        "GUID:68bd7fdb68ef2684e982e8a9825b18a5",
+        "GUID:be281b7992e9e1840851a78ba9db107c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

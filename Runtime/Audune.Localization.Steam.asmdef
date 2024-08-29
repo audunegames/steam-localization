@@ -1,0 +1,17 @@
+{
+    "name": "Audune.Localization.Steam",
+    "rootNamespace": "Audune.Localization.Steam",
+    "references": [
+        "GUID:5bf27bd8feae55648bfc632dd99aaa4d",
+        "GUID:68bd7fdb68ef2684e982e8a9825b18a5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
