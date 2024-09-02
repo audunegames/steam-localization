@@ -7,11 +7,13 @@ using UnityEngine;
 namespace Audune.Localization.Steam
 {
   // Class that defines a locale selector that uses the Steam application language
+  [AddComponentMenu("Audune/Localization/Locale Selectors/Steam Locale Selector")]
   public sealed class SteamLocaleSelector : LocaleSelector
   {
     // Locale selector properties
     [SerializeField, Tooltip("The alt code of a locale to compare to the Steam language")]
     private string _code = "steam";
+    
     
     // Return if a locale could be selected according to this selector and store the selected locale
     public override bool TrySelectLocale(IReadOnlyList<Locale> locales, out Locale locale)
