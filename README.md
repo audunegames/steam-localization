@@ -10,7 +10,7 @@ This package includes a locale selector that uses the Steam client language to s
 
 This package depends on the following packages:
 
-* [Localization](https://openupm.com/packages/com.audune.localization/), version **1.0.0** or higher.
+* [Localization](https://openupm.com/packages/com.audune.localization/), version **3.0.0** or higher.
 * [Steamworks.NET](https://openupm.com/packages/com.rlabrecque.steamworks.net/), version **20.0.0** or higher.
 
 If you're installing the required packages from the [OpenUPM registry](https://openupm.com/), make sure to add a scoped registry with the URL `https://package.openupm.com` and the required scopes before installing the packages.
