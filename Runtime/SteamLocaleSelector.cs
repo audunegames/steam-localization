@@ -16,7 +16,7 @@ namespace Audune.Localization.Steam
     
     
     // Return if a locale could be selected according to this selector and store the selected locale
-    public override bool TrySelectLocale(IReadOnlyList<Locale> locales, out Locale locale)
+    public override bool TrySelectLocale(IReadOnlyList<ILocale> locales, out ILocale locale)
     {
       locale = null;
 
