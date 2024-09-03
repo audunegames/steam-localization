@@ -1,11 +1,11 @@
 {
   "name": "com.audune.localization.steam",
   "displayName": "Steam Localization Integration",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2022.3",
   "description": "Steam localization integration for the Audune Localization package",
   "documentationUrl": "https://github.com/audunegames/steam-localization-integration",
-  "changelogUrl": "https://github.com/audunegames/steam-localization-integration/commits/v1.0.1",
+  "changelogUrl": "https://github.com/audunegames/steam-localization-integration/tree/master/CHANGELOG.md",
   "licensesUrl": "https://www.gnu.org/licenses/gpl-3.0.html",
   "license": "GPL-3.0-or-later",
   "author": {
@@ -14,7 +14,7 @@
     "url": "https://audune.com/"
   },
   "dependencies": {
-    "com.audune.localization": "1.0.0",
+    "com.audune.localization": "3.0.0",
     "com.rlabrecque.steamworks.net": "20.0.0"
   }
 }
